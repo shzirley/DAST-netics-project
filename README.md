@@ -46,4 +46,3 @@ Dikembangkan untuk keperluan penilaian desain arsitektur dan struktur *frontend*
 *   **Angela Vania Sugiyono** (5025241226)
 
 ---
-*Proyek ini dirancang di bawah konteks mata kuliah/pengembangan produk dengan metrik yang dioptimalkan untuk menunjukkan kompleksitas struktur logika data Cybersecurity.*
